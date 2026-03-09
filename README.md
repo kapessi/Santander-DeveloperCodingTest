@@ -7,7 +7,7 @@ Santander developer coding test developed by Emmanuel Uraga
 
 To execute the API you just must call the URL https://localhost:7067/api/HackerNews?n=2, where n is the number of stories to retrieve.
 
-![image]
+<img width="1388" height="859" alt="image" src="https://github.com/user-attachments/assets/0e81cd51-8afb-407f-ab03-2df367618186" />
 
 
 ##  Assumptions
@@ -25,4 +25,4 @@ Unit test are provided for the next cases:
 - 5 stories requested
 - 10 stories requested
 
-![image]
+<img width="2560" height="1528" alt="image" src="https://github.com/user-attachments/assets/1e3f2458-fc9a-4096-a550-ac8dce6aa9fd" />
