@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Common\Santander.DeveloperCodingTest.Entities\Santander.DeveloperCodingTest.Entities.csproj" />
+    <ProjectReference Include="..\..\Common\Santander.DeveloperCodingTest.Framework\Santander.DeveloperCodingTest.Framework.csproj" />
+    <ProjectReference Include="..\..\Data\Santander.DeveloperCodingTest.Data.Services.Contracts\Santander.DeveloperCodingTest.Data.Services.Contracts.csproj" />
+  </ItemGroup>
+
+</Project>
